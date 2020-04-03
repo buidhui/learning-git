@@ -1,0 +1,7 @@
+git status // kiểm tra trạng thái của git
+git add 'tên file' // thêm file mới 
+git ađ . // thêm tất cả các file mới hoặc file thay đổi
+git commit -m 'message' // commit lên
+/////////
+git log // hiện lịch sử  commit 
+git show 'id' // hiện sự thay đổi trong lần commit có id đó 
