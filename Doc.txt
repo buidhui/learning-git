@@ -9,3 +9,7 @@ git diff // so sánh sự thay đổi trong file trước khi add
 ////
 working directory // thư mục mình làm việc
 staging are // thư mục chứa file đã add nhưng chưa commit 
+gitk /// mở GUI kiểm tra lịch sử commit
+////////
+git checkout -- 'file' // bỏ thay đổi của một số file khi chưa add lên staging
+git reset HEAD 'file' // đưa file đã add lên respo về staging 
