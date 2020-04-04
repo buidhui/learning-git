@@ -36,13 +36,23 @@ Git Ignore
 Git Push
     Tao repos
     Git push -u origin master
-    
+
 Git Clone - Pull
     Git clone 'link repos'
     Git pull
 Push request
     step 1: tao branch de lam cong viec do 
+    step 2: add commit len branch do
+    step 2: push origin 'branchName'
+
+Git rebase
+    step 1: chuyen qua branch cos conflict
+    step 2: git rebase master => sua code cho het conflict
+    step 3: git add 
+    step 4: git rebase --continue
+Git 
     step 2: add commitgit  len branch do
     step 2: push origin 'branchName'
 Pull request:
     git pull
+
