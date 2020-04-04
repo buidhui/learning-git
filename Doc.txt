@@ -35,24 +35,22 @@ Git Ignore
     tạo file .gitignore và thêm tên file cần ignore vào file để tránh commit file đó 
 Git Push
     Tao repos
-    Git push -u origin master
+    Git push -u origin master // push to master 
+    git push origin 'branchName' // push to branch
 
 Git Clone - Pull
-    Git clone 'link repos'
-    Git pull
-Push request
+    Git clone 'link repos' // clone all other repo to my local repo
+    Git pull // update local repo
+Push request // compare working process
     step 1: tao branch de lam cong viec do 
     step 2: add commit len branch do
-    step 2: push origin 'branchName'
+    step 2: git push origin 'branchName'
 
-Git rebase
-    step 1: chuyen qua branch cos conflict
-    step 2: git rebase master => sua code cho het conflict
-    step 3: git add 
-    step 4: git rebase --continue
-Git 
-    step 2: add commitgit  len branch do
-    step 2: push origin 'branchName'
-Pull request:
-    git pull
+Git rebase // fix conflict
+    step 1: switch to branch which has conflict
+    step 2: git rebase master => fix the code in IDE
+    step 3: git add // add again into staging area
+    step 4: git rebase --continue // finished fixing 
+Git Merge // to fix conflict
+    
 
