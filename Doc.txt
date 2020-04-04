@@ -33,3 +33,7 @@ Git Revert
     git revert 'idCommit' // undo ve vi tri commit do va xoa het cac thay doi trong file do, cac commit sau giu nguyen
 Git Ignore
     tạo file .gitignore và thêm tên file cần ignore vào file để tránh commit file đó 
+Git Push
+    Tao repos
+    Git push -u origin master
+    
