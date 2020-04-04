@@ -45,3 +45,9 @@ Push request
     step 2: push origin 'branchName'
 Pull request:
     git pull
+Git rebase
+    step 1: chuyen qua branch cos conflict
+    step 2: git rebase master => sua code cho het conflict
+    step 3: git add 
+    step 4: git rebase --continue
+Git 
