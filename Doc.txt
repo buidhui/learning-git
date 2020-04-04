@@ -35,7 +35,7 @@ Git Ignore
     tạo file .gitignore và thêm tên file cần ignore vào file để tránh commit file đó 
 Git Push
     Tao repos
-    Git push -u origin master // push to master 
+    Git push // push to master 
     git push origin 'branchName' // push to branch
 
 Git Clone - Pull
