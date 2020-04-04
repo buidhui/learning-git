@@ -37,3 +37,12 @@ Git Push
     Tao repos
     Git push -u origin master
     
+Git Clone - Pull
+    Git clone 'link repos'
+    Git pull
+Push request
+    step 1: tao branch de lam cong viec do 
+    step 2: add commitgit  len branch do
+    step 2: push origin 'branchName'
+Pull request:
+    git pull
